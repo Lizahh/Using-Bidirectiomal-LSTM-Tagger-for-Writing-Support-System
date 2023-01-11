@@ -1,1 +1,3 @@
 # Using-Bidirectiomal-LSTM-Tagger-for-Writing-Support-System
+
+The work on this repository is under progress...
